@@ -1,6 +1,6 @@
 # SpinalJ post-registration plotting
 
-Assign registered cells to SpinalJ atlas regions, summarize laminar counts, and generate GM/WM, lamina, KDE, and bar-chart figures per spinal reference segment.
+Assign registered cells to SpinalJ (https://github.com/felixfiederling/SpinalJ) atlas regions, summarize laminar counts, and generate GM/WM, lamina, KDE, and bar-chart figures per spinal reference segment.
 
 ## Quick start
 
