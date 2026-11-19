@@ -19,7 +19,7 @@ Dependencies: **NumPy**, **pandas**, **SciPy**, **matplotlib**, **Pillow** (see 
 
 ### 2. Atlas data
 
-Example atlas files are included under `spinal_registration/atlas_data/useful_atlas_data/` (`Atlas_Regions.csv`, `Segments.csv`, `Annotation_Segments_Only.tif`). To use another registration version, replace those files with the same names (see the README in that folder).
+Atlas files are included under `spinal_registration/atlas_data/useful_atlas_data/` (`Atlas_Regions.csv`, `Segments.csv`, `Annotation_Segments_Only.tif`). See the README in that folder.
 
 ### 3. Run
 
