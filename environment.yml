@@ -1,0 +1,17 @@
+# Recreate the analysis environment (tested with Python 3.11):
+#   conda env create -f environment.yml
+#   conda activate spinalj_post_reg_plotting
+#
+# Update packages:
+#   conda env update -f environment.yml --prune
+
+name: spinalj_post_reg_plotting
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.*
+  - numpy=2.3.3
+  - pandas=2.3.3
+  - scipy=1.16.2
+  - matplotlib=3.10.7
+  - pillow=11.3.0

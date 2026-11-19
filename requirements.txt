@@ -1,0 +1,6 @@
+# Pip fallback (after creating a Python 3.11 env), or use environment.yml for conda.
+numpy==2.3.3
+pandas==2.3.3
+scipy==1.16.2
+matplotlib==3.10.7
+pillow==11.3.0

@@ -1,0 +1,13 @@
+Parameter,Default,User_value,Description
+plot_dpi,300,,Matplotlib savefig DPI for all PNG outputs
+kernel_width_fraction,0.05,,KDE Gaussian sigma as fraction of GM vertical height (pixels)
+kde_contour_percentile_min,45,,Lowest percentile for KDE percentile contour levels
+kde_contour_percentile_max,95,,Highest percentile for KDE percentile contour levels
+kde_contour_percentile_step,10,,Step between KDE percentile contour levels
+kde_fraction_max_min,0.35,,Lowest fraction-of-max KDE contour level
+kde_fraction_max_max,0.95,,Highest fraction-of-max KDE contour level
+kde_fraction_max_step,0.1,,Step between fraction-of-max KDE contour levels
+show_contour_inline_labels,FALSE,,Draw labels on KDE contour lines (True/False)
+plot_lamina_roman_labels,TRUE,,Roman I-X on lamina color scatter backdrops (True/False)
+gm_outline_smooth_sigma_fraction,0.03,,GM outline sigma as fraction of GM vertical height
+wm_outline_smooth_sigma_fraction,0.03,,WM outline sigma as fraction of GM vertical height (WM dilation before smooth)
